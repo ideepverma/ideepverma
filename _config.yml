@@ -1,0 +1,21 @@
+title: Deep Verma 
+theme: minima
+
+author:
+   name: Deep Verma
+   email: vermadeep994@gmail.com
+
+description: >
+   Write an awesome description for your new site here. You can edit this line
+
+
+   social_links:
+     - title: GitHub
+       icon: github
+       url: "https://github.com/ideepverma"
+     - title: Deep at X 
+       icon: x-twitter
+       url: "https://x.com/deepsol58"
+
+
+   hide_site_feed_link: false
