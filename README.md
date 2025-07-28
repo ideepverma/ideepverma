@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deep </h1>
-💫 About Me:
+💫 About Me
+
 🔭 I’m currently working on Java <br>👯 I’m looking for help with Machine Learning Algorithm<br>🌱 I’m currently learning Frameworks for back-end <br>💬 Ask me about Python<br>
 
 
