@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Deep Verma</h1>
+<h1 align="center">Hi 👋, I'm Deep </h1>
 💫 About Me:
 🔭 I’m currently working on Python and Java Script <br>👯 I’m looking for help with Machine Learning Algorithm<br>🌱 I’m currently learning Frameworks<br>💬 Ask me about Python<br>
 
