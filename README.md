@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Deep;Machine+Learning+Enthusiast;DevOps+Explorer;Python+%26+SQL+Expert" alt="Typing SVG" />
 </div>
 
-<h1 align="center">Deep </h1>
+<h1 align="center">Deep Verma</h1>
 <h3 align="center">🚀 Passionate Machine Learning Engineer & DevOps Enthusiast from India 🇮🇳</h3>
 
 <div align="center">
@@ -13,8 +13,6 @@
 <br/>
 
 ## 🌟 About Me
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I'm currently learning **Java, Machine Learning, and DevOps**
 - 📝 I regularly write articles on **[Crypto, Tech and Web3](https://your-blog-link.com)**
