@@ -44,7 +44,7 @@
 
 ### Programming Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,js" />
 </div>
 
 ### Databases & Tools
