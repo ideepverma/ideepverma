@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Deep Verma</h1>
-<h3 align="center">🚀 Passionate Machine Learning Engineer & DevOps Enthusiast from India 🇮🇳</h3>
+<h3 align="center">🚀 Passionate Back-end Engineering & DevOps Enthusiast from India 🇮🇳</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ideepverma&label=Profile%20views&color=0e75b6&style=flat" alt="ideepverma" />
@@ -14,11 +14,11 @@
 
 ## 🌟 About Me
 
-- 🌱 I'm currently learning **Java, Machine Learning, and DevOps**
+- 🌱 I'm currently learning **Java,  and DevOps**
 - 📝 I regularly write articles on **[Crypto, Tech and Web3](https://your-blog-link.com)**
 - 💬 Ask me about **Python and SQL**
 - 📫 How to reach me: **vermadeep994@gmail.com**
-- ⚡ Fun fact: **I love exploring the intersection of ML and DevOps!**
+- ⚡ Fun fact: **I love exploring the intersection of ai in backend.**
 
 <br/>
 
