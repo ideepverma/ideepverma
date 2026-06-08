@@ -53,6 +53,8 @@
 ### Design & Others
 <div align="center">
   <img src="https://skillicons.dev/icons?i=photoshop" />
+   <img src="https://skillicons.dev/icons?i=web3,crypto,blockchain,remix" />
+  
 </div>
 
 <br/>
