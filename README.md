@@ -14,7 +14,7 @@
 
 ## 🌟 About Me
 
-- 🌱 I'm currently learning **Java,  and DevOps**
+- 🌱 I'm currently learning **Java-Backend,and DevOps**
 - 📝 I regularly write articles on **[Crypto, Tech and Web3](https://your-blog-link.com)**
 - 💬 Ask me about **Python and SQL**
 - 📫 How to reach me: **vermadeep994@gmail.com**
@@ -47,7 +47,7 @@
 
 ### Databases & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,linux,spring" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,linux" />
 </div>
 
 ### Design & Others
@@ -71,17 +71,7 @@
 <br/>
 
 
-
-## 💭 Quote of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
----
-
 <div align="center">
   <h3>✨ Thanks for visiting my profile! Feel free to connect and collaborate ✨</h3>
   
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+
