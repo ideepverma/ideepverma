@@ -12,7 +12,7 @@
 
 <br/>
 
-## 🌟 About Me
+## 🌟 About Me..
 
 - 🌱 I'm currently learning **Java-Backend,and DevOps**
 - 📝 I regularly write articles on **[Crypto, Tech and Web3](https://your-blog-link.com)**
