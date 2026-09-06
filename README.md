@@ -63,6 +63,9 @@
   <a href="mailto:vermadeep994@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" />
   </a>
+  <a href="https://topmate.io/deep_verma" target="_blank">
+    <img src="https://img.shields.io/badge/Topmate-DD5E89?style=for-the-badge&logoColor=white" />
+  </a>
 </div>
 
 <br/>
